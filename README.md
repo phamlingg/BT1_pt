@@ -312,6 +312,10 @@ App hướng dẫn món ăn offline.
 
 ![Chi tiết món ăn](anh/19.png)
 
+![Chi tiết món ăn](anh/23.png)
+
+![Chi tiết món ăn](anh/24.png)
+
 ---
 
 # PHẦN 4: APP2 - ANDROID STUDIO

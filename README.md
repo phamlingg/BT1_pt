@@ -358,7 +358,7 @@ https://k58kmt.tdh.io.vn/api
 URL:
 
 ```text
-https://k58kmt.tdh.io.vn?masv=MSSV
+https://k58kmt.tdh.io.vn?masv=K225480106037
 ```
 
 ![Activity3](anh/25.png)
